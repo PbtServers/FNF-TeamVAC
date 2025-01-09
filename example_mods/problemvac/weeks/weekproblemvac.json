@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"problemvac",
+			"problemvac",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "problemvac",
+	"difficulties": "Hard, Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "El Team VAC vs. la toxicidad de CS2...",
+	"weekName": "ProblemVAC",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Momentazo",
+	"startUnlocked": true
+}
