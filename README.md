@@ -1,2 +1,2 @@
 # Friday Night Funkin' - TeamVAC (PsychEngine)
-Conjunto de Canciones de FNF Sobre Clips/Videos de Streamers/Youtubers! (Código Fuente)
+Canciones de FNF Sobre Momentos de la comunidad popular de CS2 TeamVAC! (Código Fuente)
