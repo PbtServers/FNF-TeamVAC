@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"tengomiedovac",
+			"tengomiedovac",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tengomiedovac",
+	"difficulties": "Hard, Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Una Noche de Puro Terror...",
+	"weekName": "TengoMiedoVAC",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "ProblemVAC",
+	"startUnlocked": true
+}
