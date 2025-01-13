@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"perotienehacks",
+			"perotienehacks",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "perotienehacks",
+	"difficulties": "Hard, Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Ogiser vs el cheater sin nombre...",
+	"weekName": "PeroTieneHacks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "TengoMiedoVAC",
+	"startUnlocked": true
+}
