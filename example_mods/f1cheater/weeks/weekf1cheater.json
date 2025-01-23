@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"f1cheater",
+			"f1cheater",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "f1cheater",
+	"difficulties": "Hard, Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "PbtinaDev y Ogiser vs el cheater BMW",
+	"weekName": "F1Cheater",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Abueloo",
+	"startUnlocked": true
+}
