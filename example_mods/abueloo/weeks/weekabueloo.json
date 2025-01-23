@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"abueloo",
+			"abueloo",
+			[
+				249,
+				239,
+				229
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "abueloo",
+	"difficulties": "Hard, Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "El Abuelo vs su nieto... (termina mal)",
+	"weekName": "Abueloo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "PeroTieneHacks",
+	"startUnlocked": true
+}
