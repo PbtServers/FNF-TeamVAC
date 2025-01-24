@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VACOgiserPNG-Base.png">
+<SubTexture name="VACOgiserPNG-Base Down0000" x="0" y="498" width="187" height="206" frameX="-157" frameY="-273" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Down0001" x="393" y="498" width="212" height="133" frameX="-145" frameY="-353" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Idle0000" x="191" y="267" width="206" height="221" frameX="-150" frameY="-274" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Idle0001" x="187" y="498" width="206" height="187" frameX="-150" frameY="-309" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Left0000" x="415" y="0" width="207" height="237" frameX="-138" frameY="-261" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Left0001" x="622" y="0" width="158" height="211" frameX="-134" frameY="-284" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Right0000" x="191" y="0" width="224" height="249" frameX="-172" frameY="-251" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Right0001" x="397" y="267" width="178" height="212" frameX="-221" frameY="-286" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Up0000" x="0" y="267" width="191" height="231" frameX="-161" frameY="-264" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACOgiserPNG-Base Up0001" x="0" y="0" width="191" height="267" frameX="-161" frameY="-227" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

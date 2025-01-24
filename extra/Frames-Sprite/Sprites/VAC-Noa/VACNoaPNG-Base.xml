@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VACNoaPNG-Base.png">
+<SubTexture name="VACNoaPNG-Base Down0000" x="126" y="273" width="193" height="227" frameX="-161" frameY="-270" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Down0001" x="0" y="502" width="193" height="168" frameX="-161" frameY="-330" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Idle0000" x="466" y="0" width="209" height="232" frameX="-151" frameY="-263" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Idle0001" x="675" y="204" width="210" height="197" frameX="-150" frameY="-299" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Left0000" x="0" y="273" width="126" height="229" frameX="-171" frameY="-266" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Left0001" x="500" y="273" width="115" height="196" frameX="-143" frameY="-299" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Right0000" x="230" y="0" width="236" height="249" frameX="-142" frameY="-251" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Right0001" x="319" y="273" width="181" height="214" frameX="-215" frameY="-284" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Up0000" x="675" y="0" width="228" height="204" frameX="-137" frameY="-290" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACNoaPNG-Base Up0001" x="0" y="0" width="230" height="273" frameX="-136" frameY="-215" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

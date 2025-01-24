@@ -1,10 +1,10 @@
-(Get-Content PlantillaPNG.xml) -replace 'x="0" y="0" width="279" height="374"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="279" y="0" width="257" height="331"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="536" y="0" width="282" height="487"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="818" y="0" width="282" height="504"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="1100" y="0" width="279" height="440"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="1379" y="0" width="391" height="440"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="0" y="504" width="279" height="428"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="279" y="504" width="379" height="444"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="658" y="504" width="275" height="456"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
-(Get-Content PlantillaPNG.xml) -replace 'x="933" y="504" width="313" height="481"', 'bar' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="0" y="0" width="279" height="374"', 'x="206" y="480" width="227" height="146"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="279" y="0" width="257" height="331"', 'x="433" y="480" width="227" height="110"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="536" y="0" width="282" height="487"', 'x="355" y="252" width="206" height="215"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="818" y="0" width="282" height="504"', 'x="0" y="480" width="206" height="181"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="1100" y="0" width="279" height="440"', 'x="173" y="0" width="199" height="248"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="1379" y="0" width="391" height="440"', 'x="372" y="0" width="190" height="245"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="0" y="504" width="279" height="428"', 'x="0" y="252" width="182" height="228"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="279" y="504" width="379" height="444"', 'x="182" y="252" width="173" height="227"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="658" y="504" width="275" height="456"', 'x="562" y="0" width="173" height="200"' | Out-File -encoding UTF8 PlantillaPNG.xml
+(Get-Content PlantillaPNG.xml) -replace 'x="933" y="504" width="313" height="481"', 'x="0" y="0" width="173" height="252"' | Out-File -encoding UTF8 PlantillaPNG.xml

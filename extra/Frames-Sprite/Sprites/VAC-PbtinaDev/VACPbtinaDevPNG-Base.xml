@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VACPbtinaDevPNG-Base.png">
+<SubTexture name="VACPbtinaDevPNG-Base Down0000" x="197" y="301" width="266" height="224" frameX="-122" frameY="-268" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Down0001" x="373" y="536" width="276" height="165" frameX="-119" frameY="-329" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Idle0000" x="0" y="301" width="197" height="235" frameX="-159" frameY="-260" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Idle0001" x="176" y="536" width="197" height="210" frameX="-159" frameY="-286" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Left0000" x="176" y="0" width="200" height="247" frameX="-136" frameY="-251" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Left0001" x="586" y="0" width="165" height="222" frameX="-125" frameY="-275" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Right0000" x="376" y="0" width="210" height="247" frameX="-163" frameY="-253" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Right0001" x="0" y="536" width="176" height="214" frameX="-221" frameY="-286" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Up0000" x="88" y="0" width="88" height="248" frameX="-221" frameY="-248" frameWidth="500" frameHeight="500" />
+<SubTexture name="VACPbtinaDevPNG-Base Up0001" x="0" y="0" width="88" height="301" frameX="-221" frameY="-195" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
