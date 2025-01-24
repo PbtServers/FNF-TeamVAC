@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OgiserPNG-MiedoVAC.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0000" x="206" y="495" width="180" height="183" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0001" x="206" y="495" width="180" height="183" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0002" x="206" y="495" width="180" height="183" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0003" x="206" y="495" width="180" height="183" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0004" x="206" y="495" width="180" height="183" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0005" x="206" y="495" width="180" height="183" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0006" x="206" y="495" width="180" height="183" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0007" x="206" y="495" width="180" height="183" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0008" x="386" y="495" width="180" height="121" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Down0009" x="386" y="495" width="180" height="121" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0000" x="190" y="265" width="206" height="221" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0001" x="190" y="265" width="206" height="221" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0002" x="190" y="265" width="206" height="221" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0003" x="190" y="265" width="206" height="221" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0004" x="190" y="265" width="206" height="221" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0005" x="190" y="265" width="206" height="221" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0006" x="190" y="265" width="206" height="221" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0007" x="190" y="265" width="206" height="221" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0008" x="0" y="495" width="206" height="187" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Idle0009" x="0" y="495" width="206" height="187" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0000" x="398" y="0" width="207" height="232" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0001" x="398" y="0" width="207" height="232" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0002" x="398" y="0" width="207" height="232" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0003" x="398" y="0" width="207" height="232" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0004" x="398" y="0" width="207" height="232" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0005" x="398" y="0" width="207" height="232" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0006" x="398" y="0" width="207" height="232" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0007" x="398" y="0" width="207" height="232" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0008" x="396" y="265" width="169" height="211" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Left0009" x="396" y="265" width="169" height="211" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0000" x="190" y="0" width="208" height="236" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0001" x="190" y="0" width="208" height="236" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0002" x="190" y="0" width="208" height="236" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0003" x="190" y="0" width="208" height="236" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0004" x="190" y="0" width="208" height="236" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0005" x="190" y="0" width="208" height="236" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0006" x="190" y="0" width="208" height="236" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0007" x="190" y="0" width="208" height="236" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0008" x="605" y="0" width="171" height="211" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Right0009" x="605" y="0" width="171" height="211" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0000" x="0" y="265" width="190" height="230" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0001" x="0" y="265" width="190" height="230" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0002" x="0" y="265" width="190" height="230" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0003" x="0" y="265" width="190" height="230" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0004" x="0" y="265" width="190" height="230" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0005" x="0" y="265" width="190" height="230" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0006" x="0" y="265" width="190" height="230" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0007" x="0" y="265" width="190" height="230" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0008" x="0" y="0" width="190" height="265" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="OgiserPNG-MiedoVAC-Up0009" x="0" y="0" width="190" height="265" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>

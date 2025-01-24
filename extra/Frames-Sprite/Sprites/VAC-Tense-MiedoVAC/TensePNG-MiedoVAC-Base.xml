@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TensePNG-MiedoVAC-Base.png">
+<SubTexture name="TensePNG-MiedoVAC-Base Down0000" x="423" y="496" width="226" height="202" frameX="-139" frameY="-291" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Down0001" x="772" y="0" width="226" height="159" frameX="-139" frameY="-336" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Idle0000" x="0" y="262" width="223" height="234" frameX="-138" frameY="-263" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Idle0001" x="200" y="496" width="223" height="203" frameX="-138" frameY="-295" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Left0000" x="200" y="0" width="204" height="239" frameX="-131" frameY="-259" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Left0001" x="595" y="0" width="177" height="225" frameX="-123" frameY="-274" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Right0000" x="223" y="262" width="208" height="234" frameX="-156" frameY="-260" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Right0001" x="404" y="0" width="191" height="237" frameX="-208" frameY="-262" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Up0000" x="0" y="496" width="200" height="205" frameX="-148" frameY="-292" frameWidth="500" frameHeight="500" />
+<SubTexture name="TensePNG-MiedoVAC-Base Up0001" x="0" y="0" width="200" height="262" frameX="-148" frameY="-235" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

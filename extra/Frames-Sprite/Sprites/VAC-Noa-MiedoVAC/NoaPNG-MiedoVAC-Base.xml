@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NoaPNG-MiedoVAC.png">
+<SubTexture name="NoaPNG-MiedoVAC Down0000" x="0" y="498" width="221" height="190" frameX="-145" frameY="-307" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Down0001" x="221" y="498" width="221" height="123" frameX="-145" frameY="-375" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Idle0000" x="0" y="267" width="206" height="231" frameX="-152" frameY="-264" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Idle0001" x="603" y="0" width="206" height="197" frameX="-152" frameY="-299" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Left0000" x="426" y="0" width="177" height="233" frameX="-152" frameY="-262" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Left0001" x="391" y="267" width="154" height="205" frameX="-137" frameY="-292" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Right0000" x="203" y="0" width="223" height="239" frameX="-150" frameY="-260" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Right0001" x="206" y="267" width="185" height="212" frameX="-215" frameY="-286" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Up0000" x="603" y="197" width="203" height="196" frameX="-151" frameY="-293" frameWidth="500" frameHeight="500" />
+<SubTexture name="NoaPNG-MiedoVAC Up0001" x="0" y="0" width="203" height="267" frameX="-151" frameY="-219" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OgiserPNG-MiedoVAC-Base.png">
+<SubTexture name="OgiserPNG-MiedoVAC-Base Down0000" x="206" y="495" width="180" height="183" frameX="-161" frameY="-295" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Down0001" x="386" y="495" width="180" height="121" frameX="-161" frameY="-365" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Idle0000" x="190" y="265" width="206" height="221" frameX="-150" frameY="-274" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Idle0001" x="0" y="495" width="206" height="187" frameX="-150" frameY="-309" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Left0000" x="398" y="0" width="207" height="232" frameX="-138" frameY="-265" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Left0001" x="396" y="265" width="169" height="211" frameX="-121" frameY="-284" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Right0000" x="190" y="0" width="208" height="236" frameX="-178" frameY="-261" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Right0001" x="605" y="0" width="171" height="211" frameX="-226" frameY="-287" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Up0000" x="0" y="265" width="190" height="230" frameX="-161" frameY="-264" frameWidth="500" frameHeight="500" />
+<SubTexture name="OgiserPNG-MiedoVAC-Base Up0001" x="0" y="0" width="190" height="265" frameX="-161" frameY="-229" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
