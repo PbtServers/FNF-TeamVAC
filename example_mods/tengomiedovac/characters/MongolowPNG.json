@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "VacNoaPNG-Idle",
+			"name": "MongolowPNG-Idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "VacNoaPNG-Left",
+			"name": "MongolowPNG-Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "VacNoaPNG-Down",
+			"name": "MongolowPNG-Down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "VacNoaPNG-Up",
+			"name": "MongolowPNG-Up",
 			"indices": []
 		},
 		{
@@ -52,15 +52,15 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "VacNoaPNG-Right",
+			"name": "MongolowPNG-Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/null",
+	"image": "characters/MongolowPNG",
 	"position": [
-		-200,
-		-500
+		-250,
+		500
 	],
 	"healthicon": "MongolowPNG",
 	"flip_x": true,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		200,
-		500
+		-100
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.5
 }

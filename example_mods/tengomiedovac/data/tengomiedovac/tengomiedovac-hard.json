@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "CharlieMarioGameralt",
+		"player1": "MongolowPNG",
 		"gfVersion": "null",
 		"notes": [
 			{
@@ -13326,7 +13326,7 @@
 		"song": "TengoMiedoVAC",
 		"needsVoices": true,
 		"arrowSkin": "",
-		"stage": "tengomiedovac",
+		"stage": "stagetengomiedovac",
 		"validScore": true,
 		"bpm": 146,
 		"speed": 2
