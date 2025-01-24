@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "xolta",
+		"player1": "BMW",
 		"gfVersion": "null",
-		"player2": "madden",
+		"player2": "VACPbtinaDevPNG",
 		"events": [
 			[
 				10536.5853658537,
@@ -10179,7 +10179,7 @@
 			}
 		],
 		"song": "F1Cheater",
-		"stage": "stage",
+		"stage": "stagef1cheater",
 		"needsVoices": true,
 		"bpm": 205,
 		"speed": 3.0

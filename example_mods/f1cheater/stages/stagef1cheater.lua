@@ -1,7 +1,7 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('bgproblemvac', 'bgproblemvac', -600, -300);
-	setScrollFactor('bgproblemvac', 0.9, 0.9);
+	makeLuaSprite('bgf1cheater', 'bgf1cheater', -600, -300);
+	setScrollFactor('bgf1cheater', 0.9, 0.9);
 
-	addLuaSprite('bgproblemvac', false);
+	addLuaSprite('bgf1cheater', false);
 end
