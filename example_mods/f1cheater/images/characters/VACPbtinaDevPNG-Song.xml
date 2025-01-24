@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VACPbtinaDevPNG-Song.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VACPbtinaDevPNG-Down0000" x="197" y="301" width="266" height="224" frameX="0" frameY="0" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0001" x="197" y="301" width="266" height="224" frameX="0" frameY="-8" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0002" x="197" y="301" width="266" height="224" frameX="0" frameY="-16" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0003" x="197" y="301" width="266" height="224" frameX="0" frameY="-24" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0004" x="197" y="301" width="266" height="224" frameX="0" frameY="-33" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0005" x="197" y="301" width="266" height="224" frameX="0" frameY="-41" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0006" x="197" y="301" width="266" height="224" frameX="0" frameY="-49" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0007" x="197" y="301" width="266" height="224" frameX="0" frameY="-57" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0008" x="373" y="536" width="276" height="165" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Down0009" x="373" y="536" width="276" height="165" frameX="-11" frameY="-88" frameWidth="279" frameHeight="432"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0000" x="0" y="301" width="197" height="235" frameX="0" frameY="0" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0001" x="0" y="301" width="197" height="235" frameX="0" frameY="-3" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0002" x="0" y="301" width="197" height="235" frameX="0" frameY="-6" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0003" x="0" y="301" width="197" height="235" frameX="0" frameY="-9" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0004" x="0" y="301" width="197" height="235" frameX="0" frameY="-12" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0005" x="0" y="301" width="197" height="235" frameX="0" frameY="-14" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0006" x="0" y="301" width="197" height="235" frameX="0" frameY="-17" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0007" x="0" y="301" width="197" height="235" frameX="0" frameY="-20" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0008" x="176" y="536" width="197" height="210" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Idle0009" x="176" y="536" width="197" height="210" frameX="0" frameY="-15" frameWidth="282" frameHeight="519"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0000" x="176" y="0" width="200" height="247" frameX="-142" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0001" x="176" y="0" width="200" height="247" frameX="-132" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0002" x="176" y="0" width="200" height="247" frameX="-121" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0003" x="176" y="0" width="200" height="247" frameX="-110" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0004" x="176" y="0" width="200" height="247" frameX="-100" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0005" x="176" y="0" width="200" height="247" frameX="-89" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0006" x="176" y="0" width="200" height="247" frameX="-78" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0007" x="176" y="0" width="200" height="247" frameX="-67" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0008" x="586" y="0" width="165" height="222" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Left0009" x="586" y="0" width="165" height="222" frameX="0" frameY="0" frameWidth="421" frameHeight="440"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0000" x="376" y="0" width="210" height="247" frameX="0" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0001" x="376" y="0" width="210" height="247" frameX="-7" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0002" x="376" y="0" width="210" height="247" frameX="-15" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0003" x="376" y="0" width="210" height="247" frameX="-22" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0004" x="376" y="0" width="210" height="247" frameX="-30" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0005" x="376" y="0" width="210" height="247" frameX="-38" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0006" x="376" y="0" width="210" height="247" frameX="-45" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0007" x="376" y="0" width="210" height="247" frameX="-53" frameY="-8" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0008" x="0" y="536" width="176" height="214" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Right0009" x="0" y="536" width="176" height="214" frameX="-11" frameY="0" frameWidth="390" frameHeight="444"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0000" x="88" y="0" width="88" height="248" frameX="-19" frameY="-57" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0001" x="88" y="0" width="88" height="248" frameX="-19" frameY="-52" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0002" x="88" y="0" width="88" height="248" frameX="-19" frameY="-46" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0003" x="88" y="0" width="88" height="248" frameX="-19" frameY="-41" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0004" x="88" y="0" width="88" height="248" frameX="-19" frameY="-35" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0005" x="88" y="0" width="88" height="248" frameX="-19" frameY="-30" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0006" x="88" y="0" width="88" height="248" frameX="-19" frameY="-24" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0007" x="88" y="0" width="88" height="248" frameX="-19" frameY="-19" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0008" x="0" y="0" width="88" height="301" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+	<SubTexture name="VACPbtinaDevPNG-Up0009" x="0" y="0" width="88" height="301" frameX="0" frameY="0" frameWidth="313" frameHeight="513"/>
+</TextureAtlas>

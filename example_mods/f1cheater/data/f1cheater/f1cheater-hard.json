@@ -1353,9 +1353,9 @@
 				95400,
 				[
 					[
-						"Change_Character_Prefix",
-						"0",
-						"-guitar"
+						"Change Character",
+						"dad",
+						"VACPbtinaDevPNG-Song"
 					]
 				]
 			],
@@ -1508,9 +1508,9 @@
 				105365.853658536,
 				[
 					[
-						"Change_Character_Prefix",
-						"1",
-						"-guitar"
+						"Change Character",
+						"bf",
+						"BMW-Song"
 					],
 					[
 						"HScript Call",
@@ -1688,9 +1688,9 @@
 						1
 					],
 					[
-						"Change_Character_Prefix",
-						"1",
-						""
+						"Change Character",
+						"bf",
+						"BMW"
 					]
 				]
 			],
