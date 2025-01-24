@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "TensePNG-MiedoVAC-Idle",
+			"name": "OgiserPNG-MiedoVAC-Idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "TensePNG-MiedoVAC-Left",
+			"name": "OgiserPNG-MiedoVAC-Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "TensePNG-MiedoVAC-Down",
+			"name": "OgiserPNG-MiedoVAC-Down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "TensePNG-MiedoVAC-Up",
+			"name": "OgiserPNG-MiedoVAC-Up",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "TensePNG-MiedoVAC-Right",
+			"name": "OgiserPNG-MiedoVAC-Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/TensePNG-MiedoVAC",
+	"image": "characters/OgiserPNG-MiedoVAC",
 	"position": [
 		-800,
 		600
 	],
-	"healthicon": "VACTensePNG-MiedoVAC",
+	"healthicon": "VACOgiserPNG-MiedoVAC",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
