@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MongolowPNG-Base.png">
+<SubTexture name="MongolowPNG-Base Mongolow-Down0000" x="0" y="514" width="236" height="230" frameX="-135" frameY="-264" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Down0001" x="452" y="514" width="236" height="182" frameX="-135" frameY="-314" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Idle0000" x="549" y="231" width="216" height="227" frameX="-143" frameY="-272" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Idle0001" x="236" y="514" width="216" height="206" frameX="-143" frameY="-294" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Left0000" x="163" y="0" width="223" height="251" frameX="-126" frameY="-249" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Left0001" x="0" y="273" width="216" height="241" frameX="-105" frameY="-257" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Right0000" x="216" y="273" width="236" height="240" frameX="-146" frameY="-257" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Right0001" x="549" y="0" width="234" height="231" frameX="-180" frameY="-269" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Up0000" x="386" y="0" width="163" height="244" frameX="-172" frameY="-252" frameWidth="500" frameHeight="500" />
+<SubTexture name="MongolowPNG-Base Mongolow-Up0001" x="0" y="0" width="163" height="273" frameX="-172" frameY="-223" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
