@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "VACOgiserPNG-Idle",
+			"name": "VACPbtinaDevPNG-Idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "VACOgiserPNG-Left",
+			"name": "VACPbtinaDevPNG-Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "VACOgiserPNG-Down",
+			"name": "VACPbtinaDevPNG-Down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "VACOgiserPNG-Up",
+			"name": "VACPbtinaDevPNG-Up",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "VACOgiserPNG-Right",
+			"name": "VACPbtinaDevPNG-Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/VACOgiserPNG",
+	"image": "characters/VACPbtinaDevPNG-Song",
 	"position": [
 		-800,
 		600
 	],
-	"healthicon": "VACOgiserPNG",
+	"healthicon": "VACPbtinaDevPNG",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
