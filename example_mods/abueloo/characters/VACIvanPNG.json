@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "VACIvanPNG-Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "VACIvanPNG-Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "VACIvanPNG-Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "VACIvanPNG-Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "VACIvanPNG-Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VACIvanPNG",
+	"position": [
+		-800,
+		600
+	],
+	"healthicon": "VACIvanPNG",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		200,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
