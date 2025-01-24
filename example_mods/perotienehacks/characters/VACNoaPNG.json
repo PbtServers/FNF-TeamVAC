@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "VacNoaPNG-Idle",
+			"name": "VACNoaPNG-Idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "VacNoaPNG-Left",
+			"name": "VACNoaPNG-Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "VacNoaPNG-Down",
+			"name": "VACNoaPNG-Down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "VacNoaPNG-Up",
+			"name": "VACNoaPNG-Up",
 			"indices": []
 		},
 		{
@@ -52,18 +52,18 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "VacNoaPNG-Right",
+			"name": "VACNoaPNG-Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/null",
+	"image": "characters/VACNoaPNG",
 	"position": [
 		-200,
-		-500
+		450
 	],
-	"healthicon": "VacNoaPNG",
-	"flip_x": true,
+	"healthicon": "VACNoaPNG",
+	"flip_x": false,
 	"healthbar_colors": [
 		161,
 		161,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		200,
-		500
+		-100
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.8
 }
