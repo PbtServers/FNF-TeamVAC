@@ -59,11 +59,11 @@
 	"no_antialiasing": false,
 	"image": "characters/VACNoaPNG",
 	"position": [
-		-250,
-		500
+		-700,
+		550
 	],
 	"healthicon": "VACNoaPNG",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		161,
 		161,

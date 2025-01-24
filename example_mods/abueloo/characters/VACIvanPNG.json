@@ -59,11 +59,11 @@
 	"no_antialiasing": false,
 	"image": "characters/VACIvanPNG",
 	"position": [
-		-800,
-		600
+		-200,
+		500
 	],
 	"healthicon": "VACIvanPNG",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		161,
 		161,
